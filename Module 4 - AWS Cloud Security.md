@@ -39,4 +39,4 @@ A user or system must first prove their identity. When you create an IAM user, y
 
 **Authorization: What actions are permitted.**
 Authorization is the process of determining what permissions a user, service or application should be granted. By default IAM users do not have permissions to access any resources or data in an AWS account. You must grant permission by creating a policy, which is a document in JSON format.
-To assign permission to a user, group or role, 
+To assign permission to a user, group or role, you must create an IAM policy. Any actions that you do not explicitly allow are denied.
