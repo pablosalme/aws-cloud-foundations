@@ -23,5 +23,6 @@ The summaries were created using [Obsidian](https://obsidian.md/), a powerful no
    - You cand add these notes to your Vault for quick access
 
 ## Repository Structure.
-   - "Module N - [Module Name]": Summarie related to module N.
+   - /summaries: folder with all summaries order by Module
+      - "Module N - [Module Name]": Summary related to module N.
    - /imgs: images used.
