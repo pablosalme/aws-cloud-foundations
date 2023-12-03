@@ -26,3 +26,4 @@ The summaries were created using [Obsidian](https://obsidian.md/), a powerful no
    - /summaries: folder with all summaries order by Module
       - "Module N - [Module Name]": Summary related to module N.
    - /imgs: images used.
+   - "AWS Services": File with all AWS Services that have been mentioned during the certification, with a brief description and sorted by category.
