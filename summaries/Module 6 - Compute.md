@@ -219,3 +219,6 @@ Amazon EKS.
 - No additional charge for Elastic Beanstalk, pay only for the underlying resources that are used.
 - It supports web applications written for common platforms.
 - You upload your code and Elastic Beanstalk automatically handles the deployment.
+
+
+[[Module 7 - Storage]]
