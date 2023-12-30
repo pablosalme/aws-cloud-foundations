@@ -76,3 +76,6 @@ Amazon Redshift is a fully managed, petabyte-scale data warehouse service in the
 
 ### Section 4: Amazon Aurora.
 Amazon Aurora is a MySQL and PostgreSQL- compatible relational database built for the cloud, that combines the performance and availability of traditional enterprise databases with the simplicity and cost-effectiveness of open source databases. Aurora features a distributed, fault-tolerant, self-healing storage system that auto-scales up to 64TB per database instance. It delivers high performance and availability with up to 15 low-latency read replicas, point-in-time recovery, continuous backup to S3 and replication across three AZs. It also automates time-consuming tasks such as provisioning, patching, backup, recovery, failure detection and repair.
+
+
+[[Module 9 - Cloud Architecture.]]
