@@ -11,7 +11,7 @@
 	- __On-premises,__ the deployment of resources on-premises, using virtualization and resource management tools, is sometimes called the "private cloud".
 ### Section 2 - Advantage of cloud computing
 - __Six advantages of cloud computing.__
-	- Trade fixed expense for variable expense.
+	- Trade capital expense for variable expense.
 	- Benefit from massive economies of scales.
 	- Stop guessing capacity.
 	- Increase speed and agility.
